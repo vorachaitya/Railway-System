@@ -40,6 +40,9 @@ Given below is a short description about the features that each Login provides:
 * Additional features that it provides are:
   > * Maximum of 12 tickets can be booked at a time
   > * Extra 10% charges are to be levied on each ticket.
+## Results
+You can view the output results of this project by clicking on the Google-drive link given below:
+* https://drive.google.com/drive/folders/1YRdLYdaQOjDLKWHIsUIcZpgLbDLsbnvx?usp=sharing
 ## Project Set-Up
 * Firstly, Have Java IDE such as Eclipse,Intellij,etc installed on your device.  
 * You simply need to clone this repository onto your device.
@@ -52,6 +55,7 @@ The concepts involved in this project are:
   > * Binary Search Tree
   > * Array
   > * String
+  > * ArrayList
 * OOPs (**Object Oriented Programming**)
 ## Progress
 - [x] Creating Administration Login
